@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "吉澤先生プロ言", "吉澤先生プロ言.csproj", "{16C20C64-40B5-492F-99F5-922DAA0513BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "吉澤先生プロ言Tests", "..\吉澤先生プロ言Tests\吉澤先生プロ言Tests.csproj", "{B2007A91-43E5-40EA-9461-6DA77A69FC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C20C64-40B5-492F-99F5-922DAA0513BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C20C64-40B5-492F-99F5-922DAA0513BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C20C64-40B5-492F-99F5-922DAA0513BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C20C64-40B5-492F-99F5-922DAA0513BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2007A91-43E5-40EA-9461-6DA77A69FC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2007A91-43E5-40EA-9461-6DA77A69FC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2007A91-43E5-40EA-9461-6DA77A69FC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2007A91-43E5-40EA-9461-6DA77A69FC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED03A548-1CFE-435B-8CAB-B5E8DC3869C1}
+	EndGlobalSection
+EndGlobal
